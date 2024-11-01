@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPML Country Detector 0.1\n"
+"POT-Creation-Date: 2014-09-01 15:57-0800\n"
+"PO-Revision-Date: 2014-09-01 15:58-0800\n"
+"Last-Translator: Mucunguzi Brooks <mcngzbrooks@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;_n;_n_noop;_nx_noop\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wp3.9.1\\wp-content\\plugins\\wpml-"
+"country-detector\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp3.9.1\\wp-content\\plugins\\wpml-"
+"country-detector\n"
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:25
+msgid "Country Detector Addon Options"
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:37
+msgid "Enable Footer Switcher with user country flag"
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:43
+msgid "Disable country redirect  ."
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:49
+msgid ""
+"Redirect visitors based on visitor country only if user locale translation "
+"exist ."
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:56
+msgid ""
+"Always redirect visitors based on user country (redirect to home page if "
+"user locale translations are missing) "
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:58
+msgid "Follow us:"
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:58
+msgid "Twitter"
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:58
+msgid "Get help:"
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:58
+#:wpml-country-detector/wpml-country-detector.php:119
+msgid "Support"
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:58
+msgid "Get more:"
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:58
+msgid "More Addons"
+msgstr ""
+
+#:wpml-country-detector/wcd-plugin-settings.class.php:61
+msgid "Apply"
+msgstr ""
+
+#:wpml-country-detector/wpml-country-detector.php:120
+msgid "Addons"
+msgstr ""
+
+#:wpml-country-detector/wpml-country-detector.php:154
+#:wpml-country-detector/wpml-country-detector.php:224
+msgid "All languages"
+msgstr ""
+
+#:wpml-country-detector/wpml-country-detector.php:372
+msgid "Country language Switcher."
+msgstr ""
+
+#:wpml-country-detector/wpml-country-detector.php:374
+msgid "WPML Country Detector Switcher"
+msgstr ""
+
+#:wpml-country-detector/wpml-country-detector.php:379
+msgid "Choose Language"
+msgstr ""
+
+#:wpml-country-detector/wpml-country-detector.php:388
+msgid "Title:"
+msgstr ""
